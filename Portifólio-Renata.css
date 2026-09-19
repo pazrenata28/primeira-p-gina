@@ -1,0 +1,13 @@
+body {
+    color: rgb(42, 25, 138);
+    background-color: aliceblue;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+}
+h1 {
+    margin-left: 20px;
+    color: rgb(16, 16, 65);
+    text-shadow: 2px 5px 5px rgb(139, 139, 247);
+}
